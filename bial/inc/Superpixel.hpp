@@ -11,7 +11,7 @@
 #define BIALSUPERPIXEL_H
 
 #include "Common.hpp"
-#include "SLIC.hpp"
+#include "SLIC.h"
 
 namespace Bial {
 
